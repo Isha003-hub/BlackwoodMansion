@@ -22,20 +22,20 @@ Blackwood Mansion is a cooperative, audio-based mystery game. Players work toget
 -> Once all 3 chapters are correctly solved, the full story will be revealed through a final narrated audio.
 
 # List of Credits
-Team name: Localhost404
-Team members and roles:
+Developer Team name: Localhost404 
 
-## **Developer team** - Localhost404
-Kit Ying Tong - DevOps
-Janine - Designer
-Yik Kan Sze - Lead Developer
-Isha Shah - Web Developer
+## Team members and roles: 
+Kit Ying Tong - DevOps 
+Janine - Designer 
+Yik Kan Sze - Lead Developer 
+Isha Shah - Web Developer 
 
 ## Audio team
-Alessandra Carbonaro – co-writer/producer and Ms Lily
-Ida Miller - co-writer/producer and ghost 2
-Orion Defreitas - Narrator
-Lajos Babai – Detective Jones
-Mateo Gaibor – Ghost 1
-Humber Fire Student: Miguel – Society Person
+Alessandra Carbonaro – co-writer/producer and Ms Lily 
+Ida Miller - co-writer/producer and ghost 2 
+Orion Defreitas - Narrator 
+Lajos Babai – Detective Jones 
+Mateo Gaibor – Ghost 1 
+Humber Fire Student: Miguel – Society Person 
 Kelly Bouchard- detective Roger’s 
+ 
