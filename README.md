@@ -25,9 +25,9 @@ Blackwood Mansion is a cooperative, audio-based mystery game. Players work toget
 Developer Team name: Localhost404 
 
 ## Team members and roles: 
-Kit Ying Tong - DevOps 
-Janine - Designer 
-Yik Kan Sze - Lead Developer 
+Kit Ying Tong - DevOps  
+Janine - Designer  
+Yik Kan Sze - Lead Developer  
 Isha Shah - Web Developer 
 
 ## Audio team
