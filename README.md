@@ -11,7 +11,7 @@ A private detective gets hired by a caretaker. The location is based on a privat
 Blackwood Mansion is a cooperative, audio-based mystery game. Players work together to uncover a haunting story by listening to sound clues linked to cards and arranging the events in the correct order.
 
 ## How to play
--> Lay Out the Cards: The deck includes 3 chapter cards and 9 fragment cards, each with a unique illustration. Spread them out so everyone can see. 
+-> Lay Out the Cards: The deck includes 3 chapter cards and 9 fragment cards, each with a unique illustration. Spread them out so everyone can see.  
 -> Scan the Cards: Use your phone’s camera to scan a card’s QR code and listen to its audio clue, which hints at an event in the story. 
 -> Discuss and Connect: Talk with your teammates about how the sounds and images might be linked. 
 -> Build Chapters: The game has 3 chapters. Each chapter includes 3 related fragment cards. Work together to group the correct fragments and place them in the right order for each chapter. 
