@@ -31,9 +31,9 @@ Yik Kan Sze - Lead Developer
 Isha Shah - Web Developer 
 
 ## Audio team
-Alessandra Carbonaro – co-writer/producer and Ms Lily 
-Ida Miller - co-writer/producer and ghost 2 
-Orion Defreitas - Narrator 
+Alessandra Carbonaro – co-writer/producer and Ms Lily  
+Ida Miller - co-writer/producer and ghost 2  
+Orion Defreitas - Narrator  
 Lajos Babai – Detective Jones 
 Mateo Gaibor – Ghost 1 
 Humber Fire Student: Miguel – Society Person 
