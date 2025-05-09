@@ -15,7 +15,7 @@ Blackwood Mansion is a cooperative, audio-based mystery game. Players work toget
 -> Scan the Cards: Use your phone’s camera to scan a card’s QR code and listen to its audio clue, which hints at an event in the story.  
 -> Discuss and Connect: Talk with your teammates about how the sounds and images might be linked.  
 -> Build Chapters: The game has 3 chapters. Each chapter includes 3 related fragment cards. Work together to group the correct fragments and place them in the right order for each chapter.  
--> Winning the Game 
+-> Winning the Game.  
 -> Go to the “Solution” page to test your theory.   
 -> Select 3 fragment cards and arrange them in the order you believe they occurred within a chapter. 
 -> The website will confirm if your sequence is correct. 
